@@ -136,3 +136,4 @@ Thumbs.db
 # Exclude personal configurations 
 #  (modify as needed)
 myconfig.py
+proto/
