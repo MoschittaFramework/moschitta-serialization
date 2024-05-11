@@ -1,8 +1,4 @@
-Here's the README for the `moschitta-serialization` package, formatted similarly to the `moschitta-routing` README:
-
----
-
-# Moschitta Serialization
+# Moschitta Serialization Documentation
 
 `moschitta-serialization` is a Python package that provides serializers for converting data to and from various formats, including JSON, MessagePack, YAML, and Protobuf.
 
