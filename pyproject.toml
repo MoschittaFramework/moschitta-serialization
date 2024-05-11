@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "moschitta-serialization"
-version = "0.1.0"
+version = "0.1.01"
 description = ""
 authors = ["Skyler Saville <skylersaville@gmail.com>"]
 readme = "README.md"

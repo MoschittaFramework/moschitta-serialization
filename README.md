@@ -2,15 +2,6 @@
 
 `moschitta-serialization` is a Python package that provides serializers for converting data to and from various formats, including JSON, MessagePack, YAML, and Protobuf.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Protobuf Serialization](#protobuf-serialization)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 To install `moschitta-serialization`, you'll need Python 3.7 or higher, as well as Poetry for dependency management and building the package.
